@@ -1,0 +1,66 @@
+[33mcommit 1d4a97c2f52dc8e76f1ad67000e5aefc3aea116f[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: João Vitor <joaovitorcoelho13@gmail.com>
+Date:   Sun Feb 2 11:18:41 2020 -0300
+
+    chore: mongo
+
+[33mcommit 484f5a84cc3bebe36ed03325c3c93aff8da0541b[m
+Author: João Vitor <joaovitorcoelho13@gmail.com>
+Date:   Sun Feb 2 10:03:59 2020 -0300
+
+    chore: appointment
+
+[33mcommit ccfc91b44d42c158415d3c85bf2dc70278c30085[m
+Author: João Vitor <joaovitorcoelho13@gmail.com>
+Date:   Fri Jan 31 12:26:52 2020 -0300
+
+    chore:uplods of images
+
+[33mcommit 516c5ae7f5633d8b4f26979daa05649b687dadab[m
+Author: João Vitor <joaovitorcoelho13@gmail.com>
+Date:   Wed Jan 29 08:07:18 2020 -0300
+
+    chore: validation
+
+[33mcommit 911303da6c76c23c3cb4a41048c5ea933cff018e[m
+Author: João Vitor <joaovitorcoelho13@gmail.com>
+Date:   Tue Jan 28 16:59:01 2020 -0300
+
+    chore: sessions
+
+[33mcommit 81baae3923776cc4ccc1ce0673cfd535d467aeeb[m
+Merge: 82c4f87 fbf327a
+Author: João Vitor <joaovitorcoelho13@gmail.com>
+Date:   Tue Jan 28 16:16:48 2020 -0300
+
+    chore: database config
+
+[33mcommit 82c4f872dfffcecdd224f270d72ade80785541b6[m
+Author: João Vitor <joaovitorcoelho13@gmail.com>
+Date:   Tue Jan 28 16:07:29 2020 -0300
+
+    chore: database config
+
+[33mcommit fbf327a9f3c69da2dc42b2cd6fa730fc4f5126f6[m
+Author: João Vitor <joaovitorcoelho13@gmail.com>
+Date:   Tue Jan 28 13:01:16 2020 -0300
+
+    Error
+
+[33mcommit b50f357571e82fa682db5440edea3ab85e875696[m
+Author: João Vitor <joaovitorcoelho13@gmail.com>
+Date:   Tue Jan 28 10:41:20 2020 -0300
+
+    chore: sequelize config
+
+[33mcommit 93b24072c6570d495fba190b130954dbb67cf3a7[m
+Author: João Vitor <joaovitorcoelho13@gmail.com>
+Date:   Tue Jan 28 07:32:38 2020 -0300
+
+    chore: add sintax sucrase
+
+[33mcommit cd327bcb1cddd3c3caf94070a3028459b4c09d4d[m
+Author: João Vitor <joaovitorcoelho13@gmail.com>
+Date:   Tue Jan 28 07:17:12 2020 -0300
+
+    chore: initial commit
