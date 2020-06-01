@@ -32,4 +32,8 @@ export default createGlobalStyle`
    list-style: none;
  }
 
+ button{
+   cursor: pointer;
+ }
+
 `;
