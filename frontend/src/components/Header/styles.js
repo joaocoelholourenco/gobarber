@@ -28,11 +28,10 @@ export const Content = styled.div`
       font-weight: bold;
       color: #7159c1;
     }
-
-    aside {
-      display: flex;
-      align-items: center;
-    }
+  }
+  aside {
+    display: flex;
+    align-items: center;
   }
 `;
 
@@ -45,6 +44,7 @@ export const Profile = styled.div`
   div {
     text-align: right;
     margin-right: 10px;
+    color: #000;
 
     strong {
       display: block;
