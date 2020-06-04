@@ -45,7 +45,7 @@ export default function Notifications() {
   }
 
   async function handleMarkAsRead(id) {
-    await api.put(`notfications/${id}`);
+    await api.put(`notifications/${id}`);
 
     setNotifications(
       notifications.map((notification) =>
